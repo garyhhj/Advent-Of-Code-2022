@@ -6,7 +6,7 @@
 #include <string>
 #include <algorithm>
 #include <fstream>
-
+/*
 #define ll long long
 
 using namespace std;
@@ -38,3 +38,4 @@ int main() {
 	}
 	cout << total << endl;
 }
+*/
