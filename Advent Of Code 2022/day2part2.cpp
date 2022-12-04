@@ -5,6 +5,7 @@
 #include <fstream>
 #include <vector>
 
+/*
 using namespace std;
 
 //points based on [A- 'A'][B - 'X']
@@ -40,3 +41,4 @@ int main() {
 
 	cout << total << endl;
 }
+*/

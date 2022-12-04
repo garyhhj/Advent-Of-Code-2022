@@ -27,12 +27,21 @@
     <ClCompile Include="day2part2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="day3part1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="day3part2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Day1Input.txt">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="Day2Input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Day3Input.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
