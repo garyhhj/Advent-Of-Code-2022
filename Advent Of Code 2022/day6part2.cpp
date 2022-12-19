@@ -1,5 +1,5 @@
 //Day 6: Tuning Trouble 
-//part 1
+//part 2
 
 #include <iostream>
 #include <fstream>
